@@ -1,7 +1,11 @@
 
 #Project List
-## [Hadoop and Map Reduce Forum Analyser](https://github.com/t-lanigan/hadoop-and-map-reduce)
 
+## [MiniFlow](https://github.com/t-lanigan/miniflow)
+* Wrote neural network and logistic regression library from scratch in Python
+* Imitated graph structure used in TensorFlow.
+
+## [Hadoop and Map Reduce Forum Analyser](https://github.com/t-lanigan/hadoop-and-map-reduce)
 * Developed forum analyzer using Map, Reduce, and combiners in Hadoop.
 * Constructed virtual Linux machine using Oracle VM to run a single-node Hadoop cluster.
 * Constructed bash testing scripts and Hadoop job running scripts.
